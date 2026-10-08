@@ -2,8 +2,7 @@
 
 Paste a URL, click **Summarize**, and get a short AI-written summary of the page.
 
-- **Live app:** _add your Vercel link_
-- **Backend API:** _add your Render link_
+- **Live app:** (https://web-sracper-puce.vercel.app/)
 
 ## How it works
 
